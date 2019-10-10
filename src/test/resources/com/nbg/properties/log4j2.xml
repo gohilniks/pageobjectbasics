@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Properties>
+		<property name="logpath">..\\PageObjectModelBasics\src\test\resources\com\nbg\logs
+		</property>
+	</Properties>
+	<Appenders>
+		<File name="rootLogger" filename="${logpath}\application.log"
+			append="true">
+			<PatternLayout
+				pattern="%d{dd/MM/yyyy HH:mm:ss.SSS} [%C] %-5level %logger{36}:%L - %msg%n" />
+		</File>
+		<!-- For create new file everytime -->
+		<!-- <RollingFile name="rootLogger"
+			filename="${logpath}/application.log" append="true"
+			filePattern="${logpath}/$${date:yyyy-MM}/app-%d{yyyyMMdd}.log.zip">
+			<PatternLayout
+				pattern="%d{dd/MM/yyyy HH:mm:ss.SSS} [%C] %-5level %logger{36}:%L 
+			- %msg%n" />
+			<policies>
+				<OnStartupTriggeringPolicy />
+			</policies>
+		</RollingFile> -->
+
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{dd/MM/yyyy HH:mm:ss.SSS} [%C] %-5level %logger{36}:%L - %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="logger" level="all" additivity="true">
+			<AppenderRef ref="rootLogger" />
+		</Logger>
+		<Root level="ALL">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="rootLogger" />
+		</Root>
+	</Loggers>
+</Configuration>

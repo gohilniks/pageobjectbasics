@@ -1,0 +1,276 @@
+17/09/2019 11:31:39.640 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+17/09/2019 11:31:39.653 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+17/09/2019 11:31:42.290 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+17/09/2019 11:31:48.443 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+17/09/2019 14:56:07.176 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+17/09/2019 14:56:07.183 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+17/09/2019 14:56:10.139 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+17/09/2019 14:56:15.811 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+17/09/2019 14:56:18.442 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+17/09/2019 14:56:18.877 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+17/09/2019 14:56:19.048 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+17/09/2019 14:56:19.123 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+28/09/2019 13:57:25.266 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+28/09/2019 13:57:25.277 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+28/09/2019 13:59:23.763 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+28/09/2019 13:59:23.773 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+28/09/2019 14:02:39.987 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+28/09/2019 14:02:39.996 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+28/09/2019 14:05:27.358 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+28/09/2019 14:05:27.367 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+28/09/2019 14:06:44.615 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+28/09/2019 14:06:44.623 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+28/09/2019 14:07:14.273 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+28/09/2019 14:07:14.280 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+28/09/2019 14:22:13.804 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+28/09/2019 14:22:13.812 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+28/09/2019 14:22:16.566 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+28/09/2019 14:22:23.554 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+28/09/2019 14:22:24.340 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+28/09/2019 14:22:24.591 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+28/09/2019 14:22:24.710 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+28/09/2019 14:22:24.780 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+28/09/2019 14:51:45.358 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+28/09/2019 14:51:45.364 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+28/09/2019 14:51:48.342 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+28/09/2019 14:51:54.765 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+28/09/2019 14:51:56.279 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+28/09/2019 14:51:56.615 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+28/09/2019 14:51:56.752 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+28/09/2019 14:51:56.855 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 14:08:02.761 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 14:08:02.771 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 14:08:05.650 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 14:08:11.560 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 14:09:55.134 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 14:09:55.145 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 14:09:58.155 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 14:10:03.925 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 14:13:33.810 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 14:13:33.823 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 14:13:36.416 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 14:13:41.927 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 14:13:43.062 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 14:13:43.485 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 14:13:43.639 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 14:13:43.702 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 14:50:01.785 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 14:50:01.792 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 14:50:04.409 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 14:50:10.573 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 14:50:12.247 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 14:50:12.638 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 14:50:12.818 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 14:50:12.949 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 14:50:44.442 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 14:50:44.447 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 14:50:47.053 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 14:50:53.056 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 14:50:54.332 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 14:50:54.755 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 14:50:54.908 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 14:50:55.005 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 17:05:52.982 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 17:05:52.998 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 17:05:55.874 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 17:06:10.898 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 17:06:12.819 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 17:06:13.075 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 17:06:13.195 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 17:06:13.280 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 17:10:52.184 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 17:10:52.192 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 17:10:54.776 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 17:11:01.349 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 17:11:02.642 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 17:11:02.930 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 17:11:03.076 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 17:11:03.152 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 17:12:17.542 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 17:12:17.549 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 17:12:20.140 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 17:12:26.414 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 17:12:27.696 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 17:12:27.954 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 17:12:28.078 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 17:12:28.159 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 17:13:31.211 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 17:13:31.218 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 17:13:33.807 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 17:13:39.785 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 17:13:41.009 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 17:13:41.326 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 17:13:41.461 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 17:13:41.533 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 17:14:44.468 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 17:14:44.474 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 17:14:47.027 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 17:14:53.676 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 17:14:55.226 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 17:14:55.502 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 17:14:55.642 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 17:14:55.744 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 17:16:11.583 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 17:16:11.589 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 17:16:14.170 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 17:16:20.214 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 17:16:21.486 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 17:16:21.788 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 17:16:21.918 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 17:16:22.028 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 17:20:04.286 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 17:20:04.295 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 17:20:06.849 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 17:20:13.851 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 17:20:15.174 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 17:20:15.525 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 17:20:15.716 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 17:20:15.775 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+01/10/2019 17:28:41.047 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+01/10/2019 17:28:41.054 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+01/10/2019 17:28:43.669 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+01/10/2019 17:28:50.089 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+01/10/2019 17:28:51.816 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+01/10/2019 17:28:52.221 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+01/10/2019 17:28:52.383 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+01/10/2019 17:28:52.468 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+02/10/2019 16:58:12.220 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+02/10/2019 16:58:12.227 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+02/10/2019 16:58:15.196 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+02/10/2019 16:58:20.225 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+02/10/2019 16:58:21.002 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+02/10/2019 16:58:21.282 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+02/10/2019 16:58:21.414 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+02/10/2019 16:58:21.492 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+02/10/2019 16:58:41.575 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+02/10/2019 16:58:41.751 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+02/10/2019 16:58:42.901 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+02/10/2019 16:58:43.919 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+02/10/2019 17:05:38.793 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+02/10/2019 17:05:38.800 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+02/10/2019 17:05:41.408 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+02/10/2019 17:05:46.623 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+02/10/2019 17:05:47.373 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+02/10/2019 17:05:47.661 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+02/10/2019 17:05:47.813 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+02/10/2019 17:05:47.888 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+02/10/2019 17:06:16.464 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+02/10/2019 17:06:16.565 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+02/10/2019 17:06:17.887 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+02/10/2019 17:06:18.495 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+02/10/2019 17:12:12.994 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+02/10/2019 17:12:12.999 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+02/10/2019 17:12:15.616 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+02/10/2019 17:12:20.686 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+02/10/2019 17:12:21.484 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+02/10/2019 17:12:21.780 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+02/10/2019 17:12:21.903 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+02/10/2019 17:12:21.980 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+02/10/2019 17:12:42.414 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+02/10/2019 17:12:42.514 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+02/10/2019 17:12:43.695 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+02/10/2019 17:12:44.329 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+02/10/2019 17:15:38.145 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+02/10/2019 17:15:38.152 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+02/10/2019 17:15:40.722 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+02/10/2019 17:15:46.067 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+02/10/2019 17:15:46.796 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+02/10/2019 17:15:47.054 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+02/10/2019 17:15:47.160 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+02/10/2019 17:15:47.225 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+02/10/2019 17:17:15.940 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+02/10/2019 17:17:15.946 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+02/10/2019 17:17:18.489 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+02/10/2019 17:17:23.577 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+02/10/2019 17:17:24.284 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+02/10/2019 17:17:24.517 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+02/10/2019 17:17:24.653 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+02/10/2019 17:17:24.724 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+02/10/2019 17:17:53.752 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+02/10/2019 17:17:53.845 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+02/10/2019 17:17:55.031 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+02/10/2019 17:17:55.920 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+02/10/2019 17:25:59.913 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+02/10/2019 17:25:59.921 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+02/10/2019 17:26:02.556 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+02/10/2019 17:26:07.647 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+02/10/2019 17:26:08.446 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+02/10/2019 17:26:08.728 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+02/10/2019 17:26:08.851 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+02/10/2019 17:26:08.933 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+02/10/2019 17:26:36.120 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+02/10/2019 17:26:36.218 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+02/10/2019 17:26:37.384 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+02/10/2019 17:26:38.007 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+04/10/2019 11:02:37.048 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+04/10/2019 11:02:37.062 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+04/10/2019 11:02:40.335 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+04/10/2019 11:02:45.598 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+04/10/2019 11:02:46.727 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+04/10/2019 11:02:47.119 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+04/10/2019 11:02:47.285 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+04/10/2019 11:02:47.397 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+04/10/2019 11:03:13.318 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+04/10/2019 11:03:13.415 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+04/10/2019 11:03:14.707 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+04/10/2019 11:03:15.657 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+04/10/2019 11:06:26.136 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+04/10/2019 11:06:26.142 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+04/10/2019 11:06:28.767 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+04/10/2019 11:06:34.500 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+04/10/2019 11:06:35.163 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+04/10/2019 11:06:35.401 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+04/10/2019 11:06:35.513 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+04/10/2019 11:06:35.628 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+04/10/2019 11:06:58.090 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+04/10/2019 11:06:58.231 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+04/10/2019 11:06:59.541 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+04/10/2019 11:07:00.379 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+04/10/2019 11:36:44.668 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+04/10/2019 11:36:44.674 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+04/10/2019 11:36:47.209 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+04/10/2019 11:36:52.220 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+04/10/2019 11:36:53.025 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+04/10/2019 11:36:53.299 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+04/10/2019 11:36:53.426 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+04/10/2019 11:36:53.505 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+04/10/2019 11:37:17.474 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+04/10/2019 11:37:17.631 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+04/10/2019 11:37:18.926 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+04/10/2019 11:37:19.527 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+04/10/2019 11:40:01.427 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+04/10/2019 11:40:01.432 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+04/10/2019 11:40:03.986 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+04/10/2019 11:40:08.784 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+04/10/2019 11:40:09.455 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+04/10/2019 11:40:09.689 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+04/10/2019 11:40:09.794 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+04/10/2019 11:40:09.862 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+04/10/2019 11:40:34.359 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+04/10/2019 11:40:34.478 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+04/10/2019 11:40:35.687 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+04/10/2019 11:40:36.357 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+04/10/2019 11:41:58.023 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+04/10/2019 11:41:58.033 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+04/10/2019 11:42:01.075 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+04/10/2019 11:42:05.904 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+04/10/2019 11:42:06.742 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+04/10/2019 11:42:07.027 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+04/10/2019 11:42:07.204 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+04/10/2019 11:42:07.269 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+04/10/2019 11:42:29.150 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+04/10/2019 11:42:29.311 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+04/10/2019 11:42:30.442 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+04/10/2019 11:42:31.314 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
+04/10/2019 11:44:38.612 [com.nbg.base.Page] DEBUG com.nbg.base.Page:52 - Config file loaded
+04/10/2019 11:44:38.618 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Or file loaded
+04/10/2019 11:44:41.248 [com.nbg.base.Page] DEBUG com.nbg.base.Page:82 - Chrome launched
+04/10/2019 11:44:46.730 [com.nbg.base.Page] DEBUG com.nbg.base.Page:94 - Navigated to https://www.zoho.com
+04/10/2019 11:44:47.380 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : loginlink
+04/10/2019 11:44:47.627 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : email entered value as : nikunjgohil@techhive.co.in
+04/10/2019 11:44:47.776 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : password entered value as : Techhive@123
+04/10/2019 11:44:47.833 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : signbtn
+04/10/2019 11:45:13.685 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : crmlink
+04/10/2019 11:45:13.806 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : accountstab_XPATH
+04/10/2019 11:45:15.133 [com.nbg.base.Page] DEBUG com.nbg.base.Page:129 - Clicking on an Element : createaccountbtn
+04/10/2019 11:45:15.739 [com.nbg.base.Page] DEBUG com.nbg.base.Page:151 - Type in an Element : accountname entered value as : Nikunj
