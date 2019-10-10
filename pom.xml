@@ -167,8 +167,9 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M3</version>
 				<configuration>
-					<!-- <useSystemClassLoader>false</useSystemClassLoader> <testFailureIgnore>true</testFailureIgnore> 
-						<shutdown>kill</shutdown> -->
+					<useSystemClassLoader>false</useSystemClassLoader>
+					<testFailureIgnore>true</testFailureIgnore>
+					<shutdown>kill</shutdown>
 					<suiteXmlFiles>
 						<suiteXmlFile>src/test/resources/com/nbg/runner/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
