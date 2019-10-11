@@ -11,7 +11,7 @@ import com.nbg.pages.ZohoAppPage;
 
 public class LoginTest {
 	public static void main(String[] args) {
-
+		//using egit plugin
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
 
