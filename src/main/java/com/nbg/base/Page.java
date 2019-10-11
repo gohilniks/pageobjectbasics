@@ -65,10 +65,12 @@ public class Page {
 
 				switch (config.getProperty("browser")) {
 				case "firefox":
+					System.setProperty("webdriver.gecko.driver", "D:\\SQA\\Nikunj\\Work\\Frameworks\\PageObjectModelBasics\\geckodriver.exe");
 					driver = new FirefoxDriver();
 					log.debug("Firefox launched");
 					break;
 				case "chrome":
+					System.setProperty("webdriver.chrome.driver", "D:\\SQA\\Nikunj\\Work\\Frameworks\\PageObjectModelBasics\\chromedriver.exe");
 					Map<String, Object> prefs = new HashMap<String, Object>();
 					prefs.put("profile.default_content_setting_values.notifications", 2);
 					prefs.put("credentials_enable_service", false);
